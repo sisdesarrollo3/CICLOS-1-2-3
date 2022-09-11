@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+lado1
+1
+0
+5
+lado2
+1
+0
+5
+lado3
+1
+0
+6
+2
+9
+perimetro
+1
+0
+14
+tipo_triangulo
+2
+''
+5
+1
+19
+lado1, lado2, lado3
+6
+1
+9
+perimetro
+21
+lado1 + lado2 + lado3
+7
+0
+1
+31
+lado1 = lado2 AND lado2 = lado3
+7
+0
+1
+52
+lado1 != lado2 AND lado2 != lado3 and lado1 != lado3
+6
+1
+14
+tipo_triangulo
+11
+'ISOSCELES'
+13
+6
+1
+14
+tipo_triangulo
+10
+'ESCALENO'
+13
+13
+6
+1
+14
+tipo_triangulo
+12
+'EQUILATERO'
+13
+4
+1
+62
+'PERIMETRO: ', perimetro, ' EL TRIANGULO ES: ', tipo_triangulo
+1
