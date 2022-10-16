@@ -1,0 +1,28 @@
+﻿@page "/tablas"
+
+<PageTitle>TABLAS DE MULTIPLICAR</PageTitle>
+
+<h1>Tabla del</h1>
+
+<p role="status">Tabla: @tabla</p>
+
+<table class="table table-success table-striped">
+    @for(int contador=1; contador <= 10; contador++){
+       <tr>
+          <td style="text-color: green">@tabla * @contador = @(tabla * contador)</td>
+       </tr>
+    }  
+</table>
+
+<button class="btn btn-success" @onclick="incrementarTabla">Click me</button>
+
+
+@code {
+    //codigo de c# - variables, funciones, ...
+    private int tabla = 2;
+
+    private void incrementarTabla()
+    {
+        tabla++;
+    }
+}
