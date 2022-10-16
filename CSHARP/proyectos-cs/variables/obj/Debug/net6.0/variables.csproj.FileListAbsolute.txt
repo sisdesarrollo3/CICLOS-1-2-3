@@ -1,0 +1,15 @@
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\bin\Debug\net6.0\variables.exe
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\bin\Debug\net6.0\variables.deps.json
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\bin\Debug\net6.0\variables.runtimeconfig.json
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\bin\Debug\net6.0\variables.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\bin\Debug\net6.0\variables.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.csproj.AssemblyReference.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.AssemblyInfoInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.AssemblyInfo.cs
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.csproj.CoreCompileInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\refint\variables.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\variables.genruntimeconfig.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\variables\obj\Debug\net6.0\ref\variables.dll

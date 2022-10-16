@@ -1,0 +1,15 @@
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.csproj.AssemblyReference.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.AssemblyInfoInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.AssemblyInfo.cs
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.csproj.CoreCompileInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\bin\Debug\net6.0\menus.exe
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\bin\Debug\net6.0\menus.deps.json
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\bin\Debug\net6.0\menus.runtimeconfig.json
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\bin\Debug\net6.0\menus.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\bin\Debug\net6.0\menus.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\refint\menus.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\menus.genruntimeconfig.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-cs\menus\obj\Debug\net6.0\ref\menus.dll
