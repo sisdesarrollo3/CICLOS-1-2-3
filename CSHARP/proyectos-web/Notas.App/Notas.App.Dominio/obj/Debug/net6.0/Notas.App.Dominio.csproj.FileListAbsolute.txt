@@ -1,0 +1,12 @@
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\bin\Debug\net6.0\Notas.App.Dominio.deps.json
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\bin\Debug\net6.0\Notas.App.Dominio.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\bin\Debug\net6.0\Notas.App.Dominio.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\Notas.App.Dominio.csproj.AssemblyReference.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\Notas.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\Notas.App.Dominio.AssemblyInfoInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\Notas.App.Dominio.AssemblyInfo.cs
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\Notas.App.Dominio.csproj.CoreCompileInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\Notas.App.Dominio.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\refint\Notas.App.Dominio.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\Notas.App.Dominio.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Dominio\obj\Debug\net6.0\ref\Notas.App.Dominio.dll

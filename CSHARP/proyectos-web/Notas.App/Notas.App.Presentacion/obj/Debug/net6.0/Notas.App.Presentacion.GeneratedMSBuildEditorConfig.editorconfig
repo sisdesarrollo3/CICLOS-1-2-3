@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Notas.App.Presentacion
+build_property.RootNamespace = Notas.App.Presentacion
+build_property.ProjectDir = C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Presentacion\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Presentacion
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Asignaturas/Detallar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNpZ25hdHVyYXNcRGV0YWxsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Asignaturas/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNpZ25hdHVyYXNcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Asignaturas/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNpZ25hdHVyYXNcRWxpbWluYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Asignaturas/Insertar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNpZ25hdHVyYXNcSW5zZXJ0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Asignaturas/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNpZ25hdHVyYXNcTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Estudiantes/Insertar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0dWRpYW50ZXNcSW5zZXJ0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Estudiantes/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0dWRpYW50ZXNcTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Generos/Detallar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xEZXRhbGxhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Generos/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Generos/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xFbGltaW5hci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Generos/Insertar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xJbnNlcnRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Generos/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VuZXJvc1xMaXN0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CICLOS-1-2-3/CSHARP/proyectos-web/Notas.App/Notas.App.Presentacion/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-aqli68f1qr

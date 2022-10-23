@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Presentacion\\Notas.App.Presentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\Notas.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\Notas.App.Dominio.csproj",
+        "projectName": "Notas.App.Dominio",
+        "projectPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\Notas.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Persistencia\\Notas.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Persistencia\\Notas.App.Persistencia.csproj",
+        "projectName": "Notas.App.Persistencia",
+        "projectPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Persistencia\\Notas.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\Notas.App.Dominio.csproj": {
+                "projectPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\Notas.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Presentacion\\Notas.App.Presentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Presentacion\\Notas.App.Presentacion.csproj",
+        "projectName": "Notas.App.Presentacion",
+        "projectPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Presentacion\\Notas.App.Presentacion.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Presentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\Notas.App.Dominio.csproj": {
+                "projectPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Dominio\\Notas.App.Dominio.csproj"
+              },
+              "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Persistencia\\Notas.App.Persistencia.csproj": {
+                "projectPath": "C:\\CICLOS-1-2-3\\CSHARP\\proyectos-web\\Notas.App\\Notas.App.Persistencia\\Notas.App.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

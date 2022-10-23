@@ -1,0 +1,51 @@
+﻿@page
+@model Notas.App.Presentacion.Pages.Generos.InsertarModel
+@{
+    ViewData["Title"] = "Crear";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="text-info">Crear un nueva Genero</h2>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div asp-validation-sumary="ModelOnly" class="text-danger">
+                <div class="container" style="padding: 50px">
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="genero.nombre"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="genero.nombre" class="form-control" />
+                            </div>
+                            <span asp-validation-for="genero.nombre" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="genero.abreviatura"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input type="abreviatura" asp-for="genero.abreviatura" class="form-control" />
+                            </div>
+                            <span asp-validation-for="genero.abreviatura" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2 offset-sm-2"> 
+                                <input type="submit" value="Crear" class="btn btn-success form-control" />
+                            </div>
+                            <div class="col-sm-4">
+                                <a asp-page="Listar" class="btn btn-primary form-control">Volver a la Lista</a>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

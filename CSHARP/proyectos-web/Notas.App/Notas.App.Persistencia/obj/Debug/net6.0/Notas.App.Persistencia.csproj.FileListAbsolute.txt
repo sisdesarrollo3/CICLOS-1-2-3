@@ -1,0 +1,17 @@
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\bin\Debug\net6.0\Notas.App.Persistencia.deps.json
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\bin\Debug\net6.0\Notas.App.Persistencia.runtimeconfig.json
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\bin\Debug\net6.0\Notas.App.Persistencia.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\bin\Debug\net6.0\Notas.App.Persistencia.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\bin\Debug\net6.0\Notas.App.Dominio.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\bin\Debug\net6.0\Notas.App.Dominio.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.csproj.AssemblyReference.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.AssemblyInfoInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.AssemblyInfo.cs
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.csproj.CopyComplete
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\refint\Notas.App.Persistencia.dll
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.pdb
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\Notas.App.Persistencia.genruntimeconfig.cache
+C:\CICLOS-1-2-3\CSHARP\proyectos-web\Notas.App\Notas.App.Persistencia\obj\Debug\net6.0\ref\Notas.App.Persistencia.dll

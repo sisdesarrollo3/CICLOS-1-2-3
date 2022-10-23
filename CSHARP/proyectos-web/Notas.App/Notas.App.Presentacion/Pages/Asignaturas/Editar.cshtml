@@ -1,0 +1,65 @@
+﻿@page
+@model Notas.App.Presentacion.Pages.Asignaturas.EditarModel
+@{
+    ViewData["Title"] = "Editar Asignatura";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="text-info">Actualizar Asignatura</h2>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div asp-validation-sumary="ModelOnly" class="text-danger">
+                <!-- se envía campo de la PK oculto -->
+                <input type="hidden"  asp-for="asignatura.id" />
+
+                <div class="container" style="padding: 50px">
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="asignatura.id" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-1">
+                                <input asp-for="asignatura.id" class="form-control" value="@Model.asignatura.id" disabled />
+                            </div>
+                            <span asp-validation-for="asignatura.id" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="asignatura.nombre" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="asignatura.nombre" class="form-control" value=@Model.asignatura.nombre />
+                            </div>
+                            <span asp-validation-for="asignatura.nombre" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="asignatura.intensidad" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="asignatura.intensidad" class="form-control" value=@Model.asignatura.intensidad />
+                            </div>
+                            <span asp-validation-for="asignatura.intensidad" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2 offset-sm-2"> 
+                                <input type="submit" value="Actualizar" class="btn btn-success form-control" />
+                            </div>
+                            <div class="col-sm-4">
+                                <a asp-page="Listar" class="btn btn-primary form-control">Volver a la Lista</a>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

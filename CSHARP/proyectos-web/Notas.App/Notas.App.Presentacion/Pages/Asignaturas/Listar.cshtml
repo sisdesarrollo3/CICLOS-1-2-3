@@ -1,0 +1,80 @@
+﻿@page
+@model Notas.App.Presentacion.Pages.Asignaturas.ListarModel
+@{
+   ViewData["Title"] = "Listar";
+}
+
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2><div class="text-info">Lista de Asignaturas</h2>
+            </div>
+            <div class="col-sm-3">
+                 <a class="btn btn-primary btn-sm" asp-page="./Listar">
+                        Listado Completo
+                 </a>
+            </div>
+            <div class="col-sm-3">
+                 <a class="btn btn-primary btn-sm" asp-page="./Insertar">
+                        Crear Asignatura
+                 </a>
+            </div>               
+        </div>    
+    </div>
+    <div class="card-body">
+        <div>
+            <p>
+                @Html.ActionLink("Listado Completo", "./Listar")
+            </p>
+
+            @using (Html.BeginForm())
+            {
+                <p>
+                    Buscar x Nombre: @Html.TextBox("buscar")  
+                    <input type="submit" value="Buscar" />
+                </p>
+            }
+        </div>
+        @if (Model.asignaturas.Count() > 0) { 
+            <br /><br />
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th>@Html.DisplayNameFor(m => m.asignaturas.First().id)</th>
+                    <th>@Html.DisplayNameFor(m => m.asignaturas.First().nombre)</th>
+                    <th>@Html.DisplayNameFor(m => m.asignaturas.First().intensidad)</th>
+                    <th colspan=3>ACCIONES</th>
+                </tr>
+                @foreach (var item in Model.asignaturas)  {
+                <tr>
+                    <td>@Html.DisplayFor(m => item.id)</td>
+                    <td>@Html.DisplayFor(m => item.nombre)</td>
+                    <td>@Html.DisplayFor(m => item.intensidad)</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" asp-page="./Detallar" asp-route-asignaturaId="@item.id">
+                            Detalle</a>
+                    </td>
+
+                    <td>
+                        <a class="btn btn-success btn-sm" asp-page="./Editar"    asp-route-asignaturaId="@item.id">
+                            <i class="bi-pencil-fill"></i>
+                            Editar
+                        </a>
+                    </td> 
+
+                    <td>                                                     
+                        <a class="btn btn-danger btn-sm" asp-page="./Eliminar"   asp-route-asignaturaId="@item.id">
+                            <i class="bi-trash-fill"></i>
+                            Eliminar
+                        </a>
+                    </td> 
+                </tr>    
+            }
+            </table>
+        }else{
+            <p>No hay Asignaturas disponibles</p>
+        }
+    </div>
+    </div>
+</div>
